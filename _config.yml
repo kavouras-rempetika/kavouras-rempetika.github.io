@@ -1,0 +1,30 @@
+# Site settings
+title:
+email:
+locale:           en_US
+force-https: True 
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://kavouras-rempetika.github.io/" # the base hostname & protocol for your site
+
+# User setting
+owner:
+facebook_username: kavouras.rempetika
+youtube_username: Exarxeiacity
+foursquare_username: /v/ρεμπετάδικο-ο-κάβουρας/505e2414e4b0c67783ca2781
+address: ΚΑΒΟΥΡΑΣ Ρεμπέτικα - Λαϊκά
+location: Athens Greece
+longtitude: 37.985999
+latitude: 23.734172
+
+ # Feel free to add more lines here 
+telephone: (+30) 210 381 02 02 / (+30) 210 330 11 77
+
+# API settings
+google_api_key: AIzaSyAqU5wiivNaWmtDi6jPkSdlD9tlUc8rW2Q
+
+# Build settings
+markdown: kramdown
